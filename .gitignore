@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+
+database/requisitions.db
+generated_pdfs/*.pdf
+
+uploads/
+.streamlit/secrets.toml
